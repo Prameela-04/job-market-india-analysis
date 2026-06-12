@@ -25,18 +25,10 @@ job-market-india-analysis/
 
 │   └── analysis_queries.sql          ← 7 SQL queries (CTEs, Window Functions, JOINs)
 
-├── data/
-
-│   └── cleaned/
-
-│       └── dashboard_data.csv        ← Cleaned dataset for dashboard
-
 ├── reports/
 
 │   └── insight_report.txt            ← Auto-generated findings report
 
-└── charts/                           ← All 10 visualizations
----
 
 ## 🔑 Key Findings
 
