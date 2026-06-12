@@ -111,4 +111,5 @@ SELECT * FROM ranked_roles WHERE salary_rank <= 3;
 
 Nagireddy Prameela Durga 
 Aspiring Data Analyst | Python · SQL · Looker Studio  
+Linkedin: https://www.linkedin.com/in/prameelanagireddy/
 
