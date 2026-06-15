@@ -71,7 +71,7 @@ Insight Report
 ## 📊 Dashboard
 
 🔗 **[View Live Dashboard →](https://datastudio.google.com/reporting/7e0ab137-1c7d-4c8e-8b36-e09862903b0c)**
- **[View Live Dashboard →](dashboard/dashboardpreview.png)**
+ ![](dashboard/dashboardpreview.png)
 
 
 
