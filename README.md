@@ -15,19 +15,19 @@ This project analyzes **9,355 job postings** across **82 countries** to answer:
 - What salary can a professional expect given their role and experience?
 
 ---
-
 ## 📁 Project Structure
-job-market-india-analysis/
+├── data/cleaned/          # Cleaned datasets ready for analysis
 
-├── job_market_analysis_india.ipynb   ← Main analysis notebook
+├── notebooks/             # Main Colab notebook (full analysis)
 
-├── sql/
+├── sql/                   # 7 SQL queries (SELECT to Window Functions)
 
-│   └── analysis_queries.sql          ← 7 SQL queries (CTEs, Window Functions, JOINs)
+├── charts/                # 10 visualization outputs
 
-├── reports/
+├── dashboard/             # Looker Studio dashboard screenshot
 
-│   └── insight_report.txt            ← Auto-generated findings report
+└── reports/               # Auto-generated insight report
+
 
 
 ## 🔑 Key Findings
