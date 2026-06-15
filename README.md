@@ -98,6 +98,15 @@ SELECT * FROM ranked_roles WHERE salary_rank <= 3;
 
 ---
 
+## 🚀 How to Run This Project
+
+1. Open `notebooks/job_market_analysis.ipynb` in Google Colab
+2. Run all cells sequentially (Runtime → Run All)
+3. Charts save automatically to `/charts/`
+4. SQL queries available in `/sql/analysis_queries.sql`
+
+---
+
 ## 📈 Sample Visualizations
 
 | Role Demand | Salary Trends |
