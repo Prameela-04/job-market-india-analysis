@@ -1,4 +1,4 @@
-# 📊 Job Market Intelligence Dashboard — Data & Tech Roles (2020–2024)
+# 📊 Job Market Intelligence Dashboard — Data & Tech Roles in India (2020–2024)
 
 > End-to-end data analytics project analyzing global tech job market trends  
 > with a dedicated India market spotlight  
