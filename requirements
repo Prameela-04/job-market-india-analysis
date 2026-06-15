@@ -1,1 +1,28 @@
+# Core data manipulation
+pandas==2.2.2
+numpy==1.26.4
 
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Natural Language Processing (for sentiment/title analysis)
+nltk==3.8.1
+wordcloud==1.9.3
+textblob==0.18.0
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Database
+# sqlite3 is built into Python — no install needed
+
+# Jupyter environment
+jupyter==1.0.0
+notebook==7.1.3
+ipykernel==6.29.4
+
+# Utilities
+python-dateutil==2.9.0
+# Dashboard 
+Looker Studio(Google)
