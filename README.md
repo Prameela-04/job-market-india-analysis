@@ -28,6 +28,21 @@ This project analyzes **9,355 job postings** across **82 countries** to answer:
 
 └── reports/               # Auto-generated insight report
 
+## Architecture/Workflow section
+Raw Dataset
+   ↓
+Python Cleaning
+   ↓
+EDA & Visualization
+   ↓
+SQL Analysis
+   ↓
+Dashboard Creation
+   ↓
+ML Salary Prediction
+   ↓
+Insight Report
+
 
 
 ## 🔑 Key Findings
@@ -56,6 +71,7 @@ This project analyzes **9,355 job postings** across **82 countries** to answer:
 ## 📊 Dashboard
 
 🔗 **[View Live Dashboard →](https://datastudio.google.com/reporting/7e0ab137-1c7d-4c8e-8b36-e09862903b0c)**
+ **[View Live Dashboard →](dashboard/dashboardpreview.png)**
 
 
 
