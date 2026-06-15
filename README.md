@@ -98,6 +98,18 @@ SELECT * FROM ranked_roles WHERE salary_rank <= 3;
 
 ---
 
+## 📈 Sample Visualizations
+
+| Role Demand | Salary Trends |
+|---|---|
+| ![](charts/chart_01_role_demand.png) | ![](charts/chart_04_salary_trends.png) |
+
+| Experience vs Salary | India Spotlight |
+|---|---|
+| ![](charts/chart_03_experience_salary.png) | ![](charts/chart_07_india_spotlight.png) |
+
+---
+
 ## ⚠️ Limitations & Honest Notes
 
 - India sample is only 15 rows (0.2% of dataset) — conclusions are directional, not definitive
