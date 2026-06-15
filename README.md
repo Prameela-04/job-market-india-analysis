@@ -135,6 +135,12 @@ SELECT * FROM ranked_roles WHERE salary_rank <= 3;
 
 ---
 
+## Business Recommendations
+
+- Companies hiring in India should increase remote opportunities.
+- Professionals targeting ML Engineer roles should prioritize cloud + MLOps skills.
+- Entry-level analysts can significantly increase salary through domain specialization.
+
 ## ⚠️ Limitations & Honest Notes
 
 - India sample is only 15 rows (0.2% of dataset) — conclusions are directional, not definitive
